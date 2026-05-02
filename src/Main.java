@@ -59,7 +59,7 @@ public class Main {
         var qalıq = (int) (weɪt / dɪfrəns);
         System.out.println("остаток от деления = " + qalıq);
 
-        System.out.println(" задача №8 ");
+        System.out.println(" задача № 8 ");
         var taɪm = 8 ;
         var numberhours = 640;
         var workers = 0;
